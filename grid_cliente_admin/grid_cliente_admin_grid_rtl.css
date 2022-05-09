@@ -1,0 +1,12 @@
+.css_idcliente_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_idcliente_grid_line {vertical-align: top;text-align: right;}
+.css_nombrecli_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_nombrecli_grid_line {vertical-align: top;text-align: right;}
+.css_apellidocli_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_apellidocli_grid_line {vertical-align: top;text-align: right;}
+.css_telefonocli_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_telefonocli_grid_line {vertical-align: top;text-align: right;}
+.css_correocli_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_correocli_grid_line {vertical-align: top;text-align: right;}
+.css_dnicli_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_dnicli_grid_line {vertical-align: top;text-align: right;}
